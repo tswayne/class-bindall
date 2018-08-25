@@ -30,6 +30,7 @@ class MyClass {
 
 #### Manual
 
+```
 const bindAll = require('class-bindall')
 
 class MyClass {

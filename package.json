@@ -1,10 +1,14 @@
 {
-  "name": "js",
+  "name": "class-bindall",
   "version": "1.0.0",
   "description": "BindAll specifically for classes",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tswayne/class-bindall"
   },
   "keywords": [
     "bindall",
