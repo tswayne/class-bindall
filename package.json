@@ -1,0 +1,16 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "BindAll specifically for classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bindall",
+    "bind",
+    "class"
+  ],
+  "author": "",
+  "license": "ISC"
+}
